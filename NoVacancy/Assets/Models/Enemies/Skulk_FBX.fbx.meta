@@ -1,0 +1,1579 @@
+fileFormatVersion: 2
+guid: 91018bce59add8340b1f3424481fff0e
+timeCreated: 1494023235
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Back_Bone
+    100004: BackHorn_Base.L
+    100006: BackHorn_Base.L_end
+    100008: BackHorn_Base.R
+    100010: BackHorn_Base.R_end
+    100012: BackHorn_Controller.L
+    100014: BackHorn_Controller.L_end
+    100016: BackHorn_Controller.R
+    100018: BackHorn_Controller.R_end
+    100020: BackHorn_Root.L
+    100022: BackHorn_Root.R
+    100024: BackLeg_Base.L
+    100026: BackLeg_Base.R
+    100028: BackLeg_Controller.L
+    100030: BackLeg_Controller.L_end
+    100032: BackLeg_Controller.R
+    100034: BackLeg_Controller.R_end
+    100036: BackLeg_ForeArm.L
+    100038: BackLeg_ForeArm.L_end
+    100040: BackLeg_ForeArm.R
+    100042: BackLeg_ForeArm.R_end
+    100044: BackLeg_Root.L
+    100046: BackLeg_Root.R
+    100048: Camera
+    100050: ChestBone
+    100052: FrontHorn_Base.L
+    100054: FrontHorn_Base.L_end
+    100056: FrontHorn_Base.R
+    100058: FrontHorn_Base.R_end
+    100060: FrontHorn_controller.L
+    100062: FrontHorn_controller.L_end
+    100064: FrontHorn_controller.R
+    100066: FrontHorn_controller.R_end
+    100068: FrontHorn_Root.L
+    100070: FrontHorn_Root.R
+    100072: FrontLeg_Base.L
+    100074: FrontLeg_Base.R
+    100076: FrontLeg_Contoller.L
+    100078: FrontLeg_Contoller.L_end
+    100080: FrontLeg_Contoller.R
+    100082: FrontLeg_Contoller.R_end
+    100084: FrontLeg_Forearm.L
+    100086: FrontLeg_Forearm.L_end
+    100088: FrontLeg_Forearm.R
+    100090: FrontLeg_Forearm.R_end
+    100092: FrontLeg_Root.L
+    100094: FrontLeg_Root.R
+    100096: Head Bone
+    100098: Lamp
+    100100: LowerJaw
+    100102: LowerJaw_Controller
+    100104: LowerJaw_Controller_end
+    100106: LowerJaw_end
+    100108: LowerJaw_Root
+    100110: Plane
+    100112: //RootNode
+    100114: UpperJaw
+    100116: UpperJaw_Controller
+    100118: UpperJaw_Controller_end
+    100120: UpperJaw_end
+    100122: UpperJaw_Root
+    400000: Armature
+    400002: Back_Bone
+    400004: BackHorn_Base.L
+    400006: BackHorn_Base.L_end
+    400008: BackHorn_Base.R
+    400010: BackHorn_Base.R_end
+    400012: BackHorn_Controller.L
+    400014: BackHorn_Controller.L_end
+    400016: BackHorn_Controller.R
+    400018: BackHorn_Controller.R_end
+    400020: BackHorn_Root.L
+    400022: BackHorn_Root.R
+    400024: BackLeg_Base.L
+    400026: BackLeg_Base.R
+    400028: BackLeg_Controller.L
+    400030: BackLeg_Controller.L_end
+    400032: BackLeg_Controller.R
+    400034: BackLeg_Controller.R_end
+    400036: BackLeg_ForeArm.L
+    400038: BackLeg_ForeArm.L_end
+    400040: BackLeg_ForeArm.R
+    400042: BackLeg_ForeArm.R_end
+    400044: BackLeg_Root.L
+    400046: BackLeg_Root.R
+    400048: Camera
+    400050: ChestBone
+    400052: FrontHorn_Base.L
+    400054: FrontHorn_Base.L_end
+    400056: FrontHorn_Base.R
+    400058: FrontHorn_Base.R_end
+    400060: FrontHorn_controller.L
+    400062: FrontHorn_controller.L_end
+    400064: FrontHorn_controller.R
+    400066: FrontHorn_controller.R_end
+    400068: FrontHorn_Root.L
+    400070: FrontHorn_Root.R
+    400072: FrontLeg_Base.L
+    400074: FrontLeg_Base.R
+    400076: FrontLeg_Contoller.L
+    400078: FrontLeg_Contoller.L_end
+    400080: FrontLeg_Contoller.R
+    400082: FrontLeg_Contoller.R_end
+    400084: FrontLeg_Forearm.L
+    400086: FrontLeg_Forearm.L_end
+    400088: FrontLeg_Forearm.R
+    400090: FrontLeg_Forearm.R_end
+    400092: FrontLeg_Root.L
+    400094: FrontLeg_Root.R
+    400096: Head Bone
+    400098: Lamp
+    400100: LowerJaw
+    400102: LowerJaw_Controller
+    400104: LowerJaw_Controller_end
+    400106: LowerJaw_end
+    400108: LowerJaw_Root
+    400110: Plane
+    400112: //RootNode
+    400114: UpperJaw
+    400116: UpperJaw_Controller
+    400118: UpperJaw_Controller_end
+    400120: UpperJaw_end
+    400122: UpperJaw_Root
+    4300000: Plane
+    7400000: Skulk_All_Animations
+    7400002: Skulk_Idle1
+    7400004: Skulk_Idle2
+    7400006: Skulk_Run1
+    7400008: Skulk_Run2
+    7400010: Skulk_Attack1
+    7400012: Skulk_Attack2
+    7400014: Skulk_Death1
+    7400016: Skulk_Death2
+    9500000: //RootNode
+    13700000: Plane
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Skulk_All_Animations
+      takeName: Armature|Skulk_Animation
+      firstFrame: 0
+      lastFrame: 676
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Back_Bone
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.L/BackHorn_Controller.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.R/BackHorn_Controller.R_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L/BackHorn_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L/BackHorn_Base.L/BackHorn_Base.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R/BackHorn_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R/BackHorn_Base.R/BackHorn_Base.R_end
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L/BackLeg_ForeArm.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L/BackLeg_ForeArm.L/BackLeg_ForeArm.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R/BackLeg_ForeArm.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R/BackLeg_ForeArm.R/BackLeg_ForeArm.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.L/FrontHorn_controller.L_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.R/FrontHorn_controller.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L/FrontHorn_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L/FrontHorn_Base.L/FrontHorn_Base.L_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R/FrontHorn_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R/FrontHorn_Base.R/FrontHorn_Base.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root/LowerJaw
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root/LowerJaw/LowerJaw_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root/UpperJaw
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root/UpperJaw/UpperJaw_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/LowerJaw_Controller
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/LowerJaw_Controller/LowerJaw_Controller_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/UpperJaw_Controller
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/UpperJaw_Controller/UpperJaw_Controller_end
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L/FrontLeg_Forearm.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L/FrontLeg_Forearm.L/FrontLeg_Forearm.L_end
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R/FrontLeg_Forearm.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R/FrontLeg_Forearm.R/FrontLeg_Forearm.R_end
+        weight: 1
+      - path: Armature/BackLeg_Controller.L
+        weight: 1
+      - path: Armature/BackLeg_Controller.L/BackLeg_Controller.L_end
+        weight: 1
+      - path: Armature/BackLeg_Controller.R
+        weight: 1
+      - path: Armature/BackLeg_Controller.R/BackLeg_Controller.R_end
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.L
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.L/FrontLeg_Contoller.L_end
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.R
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.R/FrontLeg_Contoller.R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Skulk_Idle1
+      takeName: Armature|Skulk_Animation
+      firstFrame: 50
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Back_Bone
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.L/BackHorn_Controller.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.R/BackHorn_Controller.R_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L/BackHorn_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L/BackHorn_Base.L/BackHorn_Base.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R/BackHorn_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R/BackHorn_Base.R/BackHorn_Base.R_end
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L/BackLeg_ForeArm.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L/BackLeg_ForeArm.L/BackLeg_ForeArm.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R/BackLeg_ForeArm.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R/BackLeg_ForeArm.R/BackLeg_ForeArm.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.L/FrontHorn_controller.L_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.R/FrontHorn_controller.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L/FrontHorn_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L/FrontHorn_Base.L/FrontHorn_Base.L_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R/FrontHorn_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R/FrontHorn_Base.R/FrontHorn_Base.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root/LowerJaw
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root/LowerJaw/LowerJaw_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root/UpperJaw
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root/UpperJaw/UpperJaw_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/LowerJaw_Controller
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/LowerJaw_Controller/LowerJaw_Controller_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/UpperJaw_Controller
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/UpperJaw_Controller/UpperJaw_Controller_end
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L/FrontLeg_Forearm.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L/FrontLeg_Forearm.L/FrontLeg_Forearm.L_end
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R/FrontLeg_Forearm.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R/FrontLeg_Forearm.R/FrontLeg_Forearm.R_end
+        weight: 1
+      - path: Armature/BackLeg_Controller.L
+        weight: 1
+      - path: Armature/BackLeg_Controller.L/BackLeg_Controller.L_end
+        weight: 1
+      - path: Armature/BackLeg_Controller.R
+        weight: 1
+      - path: Armature/BackLeg_Controller.R/BackLeg_Controller.R_end
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.L
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.L/FrontLeg_Contoller.L_end
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.R
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.R/FrontLeg_Contoller.R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Skulk_Idle2
+      takeName: Armature|Skulk_Animation
+      firstFrame: 180
+      lastFrame: 220
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Back_Bone
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.L/BackHorn_Controller.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.R/BackHorn_Controller.R_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L/BackHorn_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L/BackHorn_Base.L/BackHorn_Base.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R/BackHorn_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R/BackHorn_Base.R/BackHorn_Base.R_end
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L/BackLeg_ForeArm.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L/BackLeg_ForeArm.L/BackLeg_ForeArm.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R/BackLeg_ForeArm.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R/BackLeg_ForeArm.R/BackLeg_ForeArm.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.L/FrontHorn_controller.L_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.R/FrontHorn_controller.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L/FrontHorn_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L/FrontHorn_Base.L/FrontHorn_Base.L_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R/FrontHorn_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R/FrontHorn_Base.R/FrontHorn_Base.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root/LowerJaw
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root/LowerJaw/LowerJaw_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root/UpperJaw
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root/UpperJaw/UpperJaw_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/LowerJaw_Controller
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/LowerJaw_Controller/LowerJaw_Controller_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/UpperJaw_Controller
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/UpperJaw_Controller/UpperJaw_Controller_end
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L/FrontLeg_Forearm.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L/FrontLeg_Forearm.L/FrontLeg_Forearm.L_end
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R/FrontLeg_Forearm.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R/FrontLeg_Forearm.R/FrontLeg_Forearm.R_end
+        weight: 1
+      - path: Armature/BackLeg_Controller.L
+        weight: 1
+      - path: Armature/BackLeg_Controller.L/BackLeg_Controller.L_end
+        weight: 1
+      - path: Armature/BackLeg_Controller.R
+        weight: 1
+      - path: Armature/BackLeg_Controller.R/BackLeg_Controller.R_end
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.L
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.L/FrontLeg_Contoller.L_end
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.R
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.R/FrontLeg_Contoller.R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Skulk_Run1
+      takeName: Armature|Skulk_Animation
+      firstFrame: 230
+      lastFrame: 275
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Back_Bone
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.L/BackHorn_Controller.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.R/BackHorn_Controller.R_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L/BackHorn_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L/BackHorn_Base.L/BackHorn_Base.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R/BackHorn_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R/BackHorn_Base.R/BackHorn_Base.R_end
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L/BackLeg_ForeArm.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L/BackLeg_ForeArm.L/BackLeg_ForeArm.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R/BackLeg_ForeArm.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R/BackLeg_ForeArm.R/BackLeg_ForeArm.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.L/FrontHorn_controller.L_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.R/FrontHorn_controller.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L/FrontHorn_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L/FrontHorn_Base.L/FrontHorn_Base.L_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R/FrontHorn_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R/FrontHorn_Base.R/FrontHorn_Base.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root/LowerJaw
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root/LowerJaw/LowerJaw_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root/UpperJaw
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root/UpperJaw/UpperJaw_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/LowerJaw_Controller
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/LowerJaw_Controller/LowerJaw_Controller_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/UpperJaw_Controller
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/UpperJaw_Controller/UpperJaw_Controller_end
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L/FrontLeg_Forearm.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L/FrontLeg_Forearm.L/FrontLeg_Forearm.L_end
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R/FrontLeg_Forearm.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R/FrontLeg_Forearm.R/FrontLeg_Forearm.R_end
+        weight: 1
+      - path: Armature/BackLeg_Controller.L
+        weight: 1
+      - path: Armature/BackLeg_Controller.L/BackLeg_Controller.L_end
+        weight: 1
+      - path: Armature/BackLeg_Controller.R
+        weight: 1
+      - path: Armature/BackLeg_Controller.R/BackLeg_Controller.R_end
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.L
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.L/FrontLeg_Contoller.L_end
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.R
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.R/FrontLeg_Contoller.R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Skulk_Run2
+      takeName: Armature|Skulk_Animation
+      firstFrame: 300
+      lastFrame: 320
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Back_Bone
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.L/BackHorn_Controller.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.R/BackHorn_Controller.R_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L/BackHorn_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L/BackHorn_Base.L/BackHorn_Base.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R/BackHorn_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R/BackHorn_Base.R/BackHorn_Base.R_end
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L/BackLeg_ForeArm.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L/BackLeg_ForeArm.L/BackLeg_ForeArm.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R/BackLeg_ForeArm.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R/BackLeg_ForeArm.R/BackLeg_ForeArm.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.L/FrontHorn_controller.L_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.R/FrontHorn_controller.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L/FrontHorn_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L/FrontHorn_Base.L/FrontHorn_Base.L_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R/FrontHorn_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R/FrontHorn_Base.R/FrontHorn_Base.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root/LowerJaw
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root/LowerJaw/LowerJaw_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root/UpperJaw
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root/UpperJaw/UpperJaw_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/LowerJaw_Controller
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/LowerJaw_Controller/LowerJaw_Controller_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/UpperJaw_Controller
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/UpperJaw_Controller/UpperJaw_Controller_end
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L/FrontLeg_Forearm.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L/FrontLeg_Forearm.L/FrontLeg_Forearm.L_end
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R/FrontLeg_Forearm.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R/FrontLeg_Forearm.R/FrontLeg_Forearm.R_end
+        weight: 1
+      - path: Armature/BackLeg_Controller.L
+        weight: 1
+      - path: Armature/BackLeg_Controller.L/BackLeg_Controller.L_end
+        weight: 1
+      - path: Armature/BackLeg_Controller.R
+        weight: 1
+      - path: Armature/BackLeg_Controller.R/BackLeg_Controller.R_end
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.L
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.L/FrontLeg_Contoller.L_end
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.R
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.R/FrontLeg_Contoller.R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Skulk_Attack1
+      takeName: Armature|Skulk_Animation
+      firstFrame: 330
+      lastFrame: 390
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Back_Bone
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.L/BackHorn_Controller.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.R/BackHorn_Controller.R_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L/BackHorn_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L/BackHorn_Base.L/BackHorn_Base.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R/BackHorn_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R/BackHorn_Base.R/BackHorn_Base.R_end
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L/BackLeg_ForeArm.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L/BackLeg_ForeArm.L/BackLeg_ForeArm.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R/BackLeg_ForeArm.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R/BackLeg_ForeArm.R/BackLeg_ForeArm.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.L/FrontHorn_controller.L_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.R/FrontHorn_controller.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L/FrontHorn_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L/FrontHorn_Base.L/FrontHorn_Base.L_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R/FrontHorn_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R/FrontHorn_Base.R/FrontHorn_Base.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root/LowerJaw
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root/LowerJaw/LowerJaw_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root/UpperJaw
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root/UpperJaw/UpperJaw_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/LowerJaw_Controller
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/LowerJaw_Controller/LowerJaw_Controller_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/UpperJaw_Controller
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/UpperJaw_Controller/UpperJaw_Controller_end
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L/FrontLeg_Forearm.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L/FrontLeg_Forearm.L/FrontLeg_Forearm.L_end
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R/FrontLeg_Forearm.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R/FrontLeg_Forearm.R/FrontLeg_Forearm.R_end
+        weight: 1
+      - path: Armature/BackLeg_Controller.L
+        weight: 1
+      - path: Armature/BackLeg_Controller.L/BackLeg_Controller.L_end
+        weight: 1
+      - path: Armature/BackLeg_Controller.R
+        weight: 1
+      - path: Armature/BackLeg_Controller.R/BackLeg_Controller.R_end
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.L
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.L/FrontLeg_Contoller.L_end
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.R
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.R/FrontLeg_Contoller.R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Skulk_Attack2
+      takeName: Armature|Skulk_Animation
+      firstFrame: 400
+      lastFrame: 440
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Back_Bone
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.L/BackHorn_Controller.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.R/BackHorn_Controller.R_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L/BackHorn_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L/BackHorn_Base.L/BackHorn_Base.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R/BackHorn_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R/BackHorn_Base.R/BackHorn_Base.R_end
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L/BackLeg_ForeArm.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L/BackLeg_ForeArm.L/BackLeg_ForeArm.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R/BackLeg_ForeArm.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R/BackLeg_ForeArm.R/BackLeg_ForeArm.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.L/FrontHorn_controller.L_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.R/FrontHorn_controller.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L/FrontHorn_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L/FrontHorn_Base.L/FrontHorn_Base.L_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R/FrontHorn_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R/FrontHorn_Base.R/FrontHorn_Base.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root/LowerJaw
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root/LowerJaw/LowerJaw_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root/UpperJaw
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root/UpperJaw/UpperJaw_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/LowerJaw_Controller
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/LowerJaw_Controller/LowerJaw_Controller_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/UpperJaw_Controller
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/UpperJaw_Controller/UpperJaw_Controller_end
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L/FrontLeg_Forearm.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L/FrontLeg_Forearm.L/FrontLeg_Forearm.L_end
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R/FrontLeg_Forearm.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R/FrontLeg_Forearm.R/FrontLeg_Forearm.R_end
+        weight: 1
+      - path: Armature/BackLeg_Controller.L
+        weight: 1
+      - path: Armature/BackLeg_Controller.L/BackLeg_Controller.L_end
+        weight: 1
+      - path: Armature/BackLeg_Controller.R
+        weight: 1
+      - path: Armature/BackLeg_Controller.R/BackLeg_Controller.R_end
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.L
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.L/FrontLeg_Contoller.L_end
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.R
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.R/FrontLeg_Contoller.R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Skulk_Death1
+      takeName: Armature|Skulk_Animation
+      firstFrame: 500
+      lastFrame: 550
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Back_Bone
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.L/BackHorn_Controller.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.R/BackHorn_Controller.R_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L/BackHorn_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L/BackHorn_Base.L/BackHorn_Base.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R/BackHorn_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R/BackHorn_Base.R/BackHorn_Base.R_end
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L/BackLeg_ForeArm.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L/BackLeg_ForeArm.L/BackLeg_ForeArm.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R/BackLeg_ForeArm.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R/BackLeg_ForeArm.R/BackLeg_ForeArm.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.L/FrontHorn_controller.L_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.R/FrontHorn_controller.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L/FrontHorn_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L/FrontHorn_Base.L/FrontHorn_Base.L_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R/FrontHorn_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R/FrontHorn_Base.R/FrontHorn_Base.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root/LowerJaw
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root/LowerJaw/LowerJaw_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root/UpperJaw
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root/UpperJaw/UpperJaw_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/LowerJaw_Controller
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/LowerJaw_Controller/LowerJaw_Controller_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/UpperJaw_Controller
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/UpperJaw_Controller/UpperJaw_Controller_end
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L/FrontLeg_Forearm.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L/FrontLeg_Forearm.L/FrontLeg_Forearm.L_end
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R/FrontLeg_Forearm.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R/FrontLeg_Forearm.R/FrontLeg_Forearm.R_end
+        weight: 1
+      - path: Armature/BackLeg_Controller.L
+        weight: 1
+      - path: Armature/BackLeg_Controller.L/BackLeg_Controller.L_end
+        weight: 1
+      - path: Armature/BackLeg_Controller.R
+        weight: 1
+      - path: Armature/BackLeg_Controller.R/BackLeg_Controller.R_end
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.L
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.L/FrontLeg_Contoller.L_end
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.R
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.R/FrontLeg_Contoller.R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Skulk_Death2
+      takeName: Armature|Skulk_Animation
+      firstFrame: 600
+      lastFrame: 675
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Back_Bone
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.L/BackHorn_Controller.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Controller.R/BackHorn_Controller.R_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L/BackHorn_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.L/BackHorn_Base.L/BackHorn_Base.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R/BackHorn_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/BackHorn_Root.R/BackHorn_Base.R/BackHorn_Base.R_end
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L/BackLeg_ForeArm.L
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.L/BackLeg_Base.L/BackLeg_ForeArm.L/BackLeg_ForeArm.L_end
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R/BackLeg_ForeArm.R
+        weight: 1
+      - path: Armature/Back_Bone/BackLeg_Root.R/BackLeg_Base.R/BackLeg_ForeArm.R/BackLeg_ForeArm.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.L/FrontHorn_controller.L_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_controller.R/FrontHorn_controller.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L/FrontHorn_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.L/FrontHorn_Base.L/FrontHorn_Base.L_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R/FrontHorn_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/FrontHorn_Root.R/FrontHorn_Base.R/FrontHorn_Base.R_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root/LowerJaw
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/LowerJaw_Root/LowerJaw/LowerJaw_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root/UpperJaw
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/Head Bone/UpperJaw_Root/UpperJaw/UpperJaw_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/LowerJaw_Controller
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/LowerJaw_Controller/LowerJaw_Controller_end
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/UpperJaw_Controller
+        weight: 1
+      - path: Armature/Back_Bone/ChestBone/UpperJaw_Controller/UpperJaw_Controller_end
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L/FrontLeg_Forearm.L
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.L/FrontLeg_Base.L/FrontLeg_Forearm.L/FrontLeg_Forearm.L_end
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R/FrontLeg_Forearm.R
+        weight: 1
+      - path: Armature/Back_Bone/FrontLeg_Root.R/FrontLeg_Base.R/FrontLeg_Forearm.R/FrontLeg_Forearm.R_end
+        weight: 1
+      - path: Armature/BackLeg_Controller.L
+        weight: 1
+      - path: Armature/BackLeg_Controller.L/BackLeg_Controller.L_end
+        weight: 1
+      - path: Armature/BackLeg_Controller.R
+        weight: 1
+      - path: Armature/BackLeg_Controller.R/BackLeg_Controller.R_end
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.L
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.L/FrontLeg_Contoller.L_end
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.R
+        weight: 1
+      - path: Armature/FrontLeg_Contoller.R/FrontLeg_Contoller.R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

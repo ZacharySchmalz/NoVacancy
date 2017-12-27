@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 60215886e450b7e4bbe09461cc7de16c
+timeCreated: 1493930724
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm1_Base
+    100002: Arm1_middle
+    100004: Arm1_root
+    100006: Arm1_Upper
+    100008: Arm1_Upper_end
+    100010: Arm2_Base
+    100012: arm2_middle
+    100014: Arm2_root
+    100016: Arm2_upper
+    100018: Arm2_upper_end
+    100020: Arm3_base
+    100022: Arm3_middle
+    100024: Arm3_root
+    100026: Arm3_upper
+    100028: Arm3_upper_end
+    100030: Armature
+    100032: Camera
+    100034: Cube
+    100036: Lamp
+    100038: //RootNode
+    400000: Arm1_Base
+    400002: Arm1_middle
+    400004: Arm1_root
+    400006: Arm1_Upper
+    400008: Arm1_Upper_end
+    400010: Arm2_Base
+    400012: arm2_middle
+    400014: Arm2_root
+    400016: Arm2_upper
+    400018: Arm2_upper_end
+    400020: Arm3_base
+    400022: Arm3_middle
+    400024: Arm3_root
+    400026: Arm3_upper
+    400028: Arm3_upper_end
+    400030: Armature
+    400032: Camera
+    400034: Cube
+    400036: Lamp
+    400038: //RootNode
+    4300000: Cube
+    7400000: Armature|WorkBench_Animations
+    7400002: Armature|WorkBench_Animations0
+    7400004: Bench_Open
+    7400006: Bench_Craft
+    9500000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|WorkBench_Animations
+      takeName: Armature|WorkBench_Animations
+      firstFrame: 0
+      lastFrame: 625
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Arm1_Base
+        weight: 1
+      - path: Armature/Arm1_Base/Arm1_root
+        weight: 1
+      - path: Armature/Arm1_Base/Arm1_root/Arm1_middle
+        weight: 1
+      - path: Armature/Arm1_Base/Arm1_root/Arm1_middle/Arm1_Upper
+        weight: 1
+      - path: Armature/Arm1_Base/Arm1_root/Arm1_middle/Arm1_Upper/Arm1_Upper_end
+        weight: 1
+      - path: Armature/Arm2_Base
+        weight: 1
+      - path: Armature/Arm2_Base/Arm2_root
+        weight: 1
+      - path: Armature/Arm2_Base/Arm2_root/arm2_middle
+        weight: 1
+      - path: Armature/Arm2_Base/Arm2_root/arm2_middle/Arm2_upper
+        weight: 1
+      - path: Armature/Arm2_Base/Arm2_root/arm2_middle/Arm2_upper/Arm2_upper_end
+        weight: 1
+      - path: Armature/Arm3_base
+        weight: 1
+      - path: Armature/Arm3_base/Arm3_root
+        weight: 1
+      - path: Armature/Arm3_base/Arm3_root/Arm3_middle
+        weight: 1
+      - path: Armature/Arm3_base/Arm3_root/Arm3_middle/Arm3_upper
+        weight: 1
+      - path: Armature/Arm3_base/Arm3_root/Arm3_middle/Arm3_upper/Arm3_upper_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bench_Open
+      takeName: Armature|WorkBench_Animations
+      firstFrame: 150
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Arm1_Base
+        weight: 1
+      - path: Armature/Arm1_Base/Arm1_root
+        weight: 1
+      - path: Armature/Arm1_Base/Arm1_root/Arm1_middle
+        weight: 1
+      - path: Armature/Arm1_Base/Arm1_root/Arm1_middle/Arm1_Upper
+        weight: 1
+      - path: Armature/Arm1_Base/Arm1_root/Arm1_middle/Arm1_Upper/Arm1_Upper_end
+        weight: 1
+      - path: Armature/Arm2_Base
+        weight: 1
+      - path: Armature/Arm2_Base/Arm2_root
+        weight: 1
+      - path: Armature/Arm2_Base/Arm2_root/arm2_middle
+        weight: 1
+      - path: Armature/Arm2_Base/Arm2_root/arm2_middle/Arm2_upper
+        weight: 1
+      - path: Armature/Arm2_Base/Arm2_root/arm2_middle/Arm2_upper/Arm2_upper_end
+        weight: 1
+      - path: Armature/Arm3_base
+        weight: 1
+      - path: Armature/Arm3_base/Arm3_root
+        weight: 1
+      - path: Armature/Arm3_base/Arm3_root/Arm3_middle
+        weight: 1
+      - path: Armature/Arm3_base/Arm3_root/Arm3_middle/Arm3_upper
+        weight: 1
+      - path: Armature/Arm3_base/Arm3_root/Arm3_middle/Arm3_upper/Arm3_upper_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bench_Craft
+      takeName: Armature|WorkBench_Animations
+      firstFrame: 500
+      lastFrame: 625
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Arm1_Base
+        weight: 1
+      - path: Armature/Arm1_Base/Arm1_root
+        weight: 1
+      - path: Armature/Arm1_Base/Arm1_root/Arm1_middle
+        weight: 1
+      - path: Armature/Arm1_Base/Arm1_root/Arm1_middle/Arm1_Upper
+        weight: 1
+      - path: Armature/Arm1_Base/Arm1_root/Arm1_middle/Arm1_Upper/Arm1_Upper_end
+        weight: 1
+      - path: Armature/Arm2_Base
+        weight: 1
+      - path: Armature/Arm2_Base/Arm2_root
+        weight: 1
+      - path: Armature/Arm2_Base/Arm2_root/arm2_middle
+        weight: 1
+      - path: Armature/Arm2_Base/Arm2_root/arm2_middle/Arm2_upper
+        weight: 1
+      - path: Armature/Arm2_Base/Arm2_root/arm2_middle/Arm2_upper/Arm2_upper_end
+        weight: 1
+      - path: Armature/Arm3_base
+        weight: 1
+      - path: Armature/Arm3_base/Arm3_root
+        weight: 1
+      - path: Armature/Arm3_base/Arm3_root/Arm3_middle
+        weight: 1
+      - path: Armature/Arm3_base/Arm3_root/Arm3_middle/Arm3_upper
+        weight: 1
+      - path: Armature/Arm3_base/Arm3_root/Arm3_middle/Arm3_upper/Arm3_upper_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1400 @@
+fileFormatVersion: 2
+guid: c3ed983932b1e97419a707ab4c66ddf5
+timeCreated: 1493766365
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone.029
+    100004: Bone.030
+    100006: Bone.030_end
+    100008: Camera
+    100010: Cube
+    100012: Finger_index_base.L
+    100014: Finger_index_base.R
+    100016: Finger_index_controller.L
+    100018: Finger_index_controller.L_end
+    100020: Finger_index_controller.R
+    100022: Finger_index_controller.R_end
+    100024: Finger_Index_middle.L
+    100026: Finger_Index_middle.R
+    100028: Finger_index_root.L
+    100030: Finger_index_root.R
+    100032: Finger_Index_upper.L
+    100034: Finger_Index_upper.L_end
+    100036: Finger_Index_upper.R
+    100038: Finger_Index_upper.R_end
+    100040: Finger_middle_Base.L
+    100042: Finger_middle_Base.R
+    100044: Finger_middle_Controller.L
+    100046: Finger_middle_Controller.L_end
+    100048: Finger_middle_Controller.R
+    100050: Finger_middle_Controller.R_end
+    100052: Finger_middle_middle.L
+    100054: Finger_middle_middle.R
+    100056: Finger_middle_Root.L
+    100058: Finger_middle_Root.R
+    100060: Finger_middle_upper.L
+    100062: Finger_middle_upper.L_end
+    100064: Finger_middle_upper.R
+    100066: Finger_middle_upper.R_end
+    100068: Finger_Pinky_Base.L
+    100070: Finger_Pinky_Base.R
+    100072: Finger_Pinky_middle.L
+    100074: Finger_Pinky_middle.R
+    100076: Finger_Pinky_root.L
+    100078: Finger_Pinky_root.R
+    100080: Finger_Pinky_Upper.L
+    100082: Finger_Pinky_Upper.L_end
+    100084: Finger_Pinky_Upper.R
+    100086: Finger_Pinky_Upper.R_end
+    100088: Finger_Ring_Base.L
+    100090: Finger_Ring_Base.R
+    100092: Finger_Ring_Controller.L
+    100094: Finger_Ring_Controller.L_end
+    100096: Finger_Ring_Controller.R
+    100098: Finger_Ring_Controller.R_end
+    100100: Finger_Ring_middle.L
+    100102: Finger_Ring_middle.R
+    100104: Finger_Ring_Root.L
+    100106: Finger_Ring_Root.R
+    100108: Finger_Ring_upper.L
+    100110: Finger_Ring_upper.L_end
+    100112: Finger_Ring_upper.R
+    100114: Finger_Ring_upper.R_end
+    100116: //RootNode
+    100118: Lamp
+    100120: Lower_arm.L
+    100122: Lower_arm.R
+    100124: Pinky_Finger_Controller.L
+    100126: Pinky_Finger_Controller.L_end
+    100128: Pinky_Finger_Controller.R
+    100130: Pinky_Finger_Controller.R_end
+    100132: Thumb_base.L
+    100134: Thumb_base.R
+    100136: Thumb_controller.L
+    100138: Thumb_controller.L_end
+    100140: Thumb_controller.R
+    100142: Thumb_controller.R_end
+    100144: Thumb_root.L
+    100146: Thumb_root.R
+    100148: Thumb_Upper.L
+    100150: Thumb_Upper.L_end
+    100152: Thumb_Upper.R
+    100154: Thumb_Upper.R_end
+    100156: Upper arm.L
+    100158: Upper arm.R
+    100160: Wrist.L
+    100162: Wrist.R
+    400000: Armature
+    400002: Bone.029
+    400004: Bone.030
+    400006: Bone.030_end
+    400008: Camera
+    400010: Cube
+    400012: Finger_index_base.L
+    400014: Finger_index_base.R
+    400016: Finger_index_controller.L
+    400018: Finger_index_controller.L_end
+    400020: Finger_index_controller.R
+    400022: Finger_index_controller.R_end
+    400024: Finger_Index_middle.L
+    400026: Finger_Index_middle.R
+    400028: Finger_index_root.L
+    400030: Finger_index_root.R
+    400032: Finger_Index_upper.L
+    400034: Finger_Index_upper.L_end
+    400036: Finger_Index_upper.R
+    400038: Finger_Index_upper.R_end
+    400040: Finger_middle_Base.L
+    400042: Finger_middle_Base.R
+    400044: Finger_middle_Controller.L
+    400046: Finger_middle_Controller.L_end
+    400048: Finger_middle_Controller.R
+    400050: Finger_middle_Controller.R_end
+    400052: Finger_middle_middle.L
+    400054: Finger_middle_middle.R
+    400056: Finger_middle_Root.L
+    400058: Finger_middle_Root.R
+    400060: Finger_middle_upper.L
+    400062: Finger_middle_upper.L_end
+    400064: Finger_middle_upper.R
+    400066: Finger_middle_upper.R_end
+    400068: Finger_Pinky_Base.L
+    400070: Finger_Pinky_Base.R
+    400072: Finger_Pinky_middle.L
+    400074: Finger_Pinky_middle.R
+    400076: Finger_Pinky_root.L
+    400078: Finger_Pinky_root.R
+    400080: Finger_Pinky_Upper.L
+    400082: Finger_Pinky_Upper.L_end
+    400084: Finger_Pinky_Upper.R
+    400086: Finger_Pinky_Upper.R_end
+    400088: Finger_Ring_Base.L
+    400090: Finger_Ring_Base.R
+    400092: Finger_Ring_Controller.L
+    400094: Finger_Ring_Controller.L_end
+    400096: Finger_Ring_Controller.R
+    400098: Finger_Ring_Controller.R_end
+    400100: Finger_Ring_middle.L
+    400102: Finger_Ring_middle.R
+    400104: Finger_Ring_Root.L
+    400106: Finger_Ring_Root.R
+    400108: Finger_Ring_upper.L
+    400110: Finger_Ring_upper.L_end
+    400112: Finger_Ring_upper.R
+    400114: Finger_Ring_upper.R_end
+    400116: //RootNode
+    400118: Lamp
+    400120: Lower_arm.L
+    400122: Lower_arm.R
+    400124: Pinky_Finger_Controller.L
+    400126: Pinky_Finger_Controller.L_end
+    400128: Pinky_Finger_Controller.R
+    400130: Pinky_Finger_Controller.R_end
+    400132: Thumb_base.L
+    400134: Thumb_base.R
+    400136: Thumb_controller.L
+    400138: Thumb_controller.L_end
+    400140: Thumb_controller.R
+    400142: Thumb_controller.R_end
+    400144: Thumb_root.L
+    400146: Thumb_root.R
+    400148: Thumb_Upper.L
+    400150: Thumb_Upper.L_end
+    400152: Thumb_Upper.R
+    400154: Thumb_Upper.R_end
+    400156: Upper arm.L
+    400158: Upper arm.R
+    400160: Wrist.L
+    400162: Wrist.R
+    4300000: Cube
+    7400000: Armature|SMG_Animations
+    7400002: SMG_Idle
+    7400004: SMG_Walk
+    7400006: SMG_Shoot
+    7400008: SMG_Reload
+    7400010: SMG_Swap
+    9500000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|SMG_Animations
+      takeName: Armature|SMG_Animations
+      firstFrame: 0
+      lastFrame: 625
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Upper arm.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_controller.L/Finger_index_controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L/Finger_Index_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L/Finger_Index_middle.L/Finger_Index_upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L/Finger_Index_middle.L/Finger_Index_upper.L/Finger_Index_upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Controller.L/Finger_middle_Controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L/Finger_middle_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L/Finger_middle_middle.L/Finger_middle_upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L/Finger_middle_middle.L/Finger_middle_upper.L/Finger_middle_upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L/Finger_Pinky_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L/Finger_Pinky_middle.L/Finger_Pinky_Upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L/Finger_Pinky_middle.L/Finger_Pinky_Upper.L/Finger_Pinky_Upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Controller.L/Finger_Ring_Controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L/Finger_Ring_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L/Finger_Ring_middle.L/Finger_Ring_upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L/Finger_Ring_middle.L/Finger_Ring_upper.L/Finger_Ring_upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Pinky_Finger_Controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Pinky_Finger_Controller.L/Pinky_Finger_Controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_controller.L/Thumb_controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L/Thumb_base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L/Thumb_base.L/Thumb_Upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L/Thumb_base.L/Thumb_Upper.L/Thumb_Upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Bone.029
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Bone.029/Bone.030
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Bone.029/Bone.030/Bone.030_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_controller.R/Finger_index_controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R/Finger_Index_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R/Finger_Index_middle.R/Finger_Index_upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R/Finger_Index_middle.R/Finger_Index_upper.R/Finger_Index_upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Controller.R/Finger_middle_Controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R/Finger_middle_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R/Finger_middle_middle.R/Finger_middle_upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R/Finger_middle_middle.R/Finger_middle_upper.R/Finger_middle_upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R/Finger_Pinky_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R/Finger_Pinky_middle.R/Finger_Pinky_Upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R/Finger_Pinky_middle.R/Finger_Pinky_Upper.R/Finger_Pinky_Upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Controller.R/Finger_Ring_Controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R/Finger_Ring_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R/Finger_Ring_middle.R/Finger_Ring_upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R/Finger_Ring_middle.R/Finger_Ring_upper.R/Finger_Ring_upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Pinky_Finger_Controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Pinky_Finger_Controller.R/Pinky_Finger_Controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_controller.R/Thumb_controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R/Thumb_base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R/Thumb_base.R/Thumb_Upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R/Thumb_base.R/Thumb_Upper.R/Thumb_Upper.R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SMG_Idle
+      takeName: Armature|SMG_Animations
+      firstFrame: 0
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Upper arm.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_controller.L/Finger_index_controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L/Finger_Index_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L/Finger_Index_middle.L/Finger_Index_upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L/Finger_Index_middle.L/Finger_Index_upper.L/Finger_Index_upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Controller.L/Finger_middle_Controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L/Finger_middle_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L/Finger_middle_middle.L/Finger_middle_upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L/Finger_middle_middle.L/Finger_middle_upper.L/Finger_middle_upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L/Finger_Pinky_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L/Finger_Pinky_middle.L/Finger_Pinky_Upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L/Finger_Pinky_middle.L/Finger_Pinky_Upper.L/Finger_Pinky_Upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Controller.L/Finger_Ring_Controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L/Finger_Ring_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L/Finger_Ring_middle.L/Finger_Ring_upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L/Finger_Ring_middle.L/Finger_Ring_upper.L/Finger_Ring_upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Pinky_Finger_Controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Pinky_Finger_Controller.L/Pinky_Finger_Controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_controller.L/Thumb_controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L/Thumb_base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L/Thumb_base.L/Thumb_Upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L/Thumb_base.L/Thumb_Upper.L/Thumb_Upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Bone.029
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Bone.029/Bone.030
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Bone.029/Bone.030/Bone.030_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_controller.R/Finger_index_controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R/Finger_Index_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R/Finger_Index_middle.R/Finger_Index_upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R/Finger_Index_middle.R/Finger_Index_upper.R/Finger_Index_upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Controller.R/Finger_middle_Controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R/Finger_middle_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R/Finger_middle_middle.R/Finger_middle_upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R/Finger_middle_middle.R/Finger_middle_upper.R/Finger_middle_upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R/Finger_Pinky_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R/Finger_Pinky_middle.R/Finger_Pinky_Upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R/Finger_Pinky_middle.R/Finger_Pinky_Upper.R/Finger_Pinky_Upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Controller.R/Finger_Ring_Controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R/Finger_Ring_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R/Finger_Ring_middle.R/Finger_Ring_upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R/Finger_Ring_middle.R/Finger_Ring_upper.R/Finger_Ring_upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Pinky_Finger_Controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Pinky_Finger_Controller.R/Pinky_Finger_Controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_controller.R/Thumb_controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R/Thumb_base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R/Thumb_base.R/Thumb_Upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R/Thumb_base.R/Thumb_Upper.R/Thumb_Upper.R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SMG_Walk
+      takeName: Armature|SMG_Animations
+      firstFrame: 175
+      lastFrame: 275
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Upper arm.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_controller.L/Finger_index_controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L/Finger_Index_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L/Finger_Index_middle.L/Finger_Index_upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L/Finger_Index_middle.L/Finger_Index_upper.L/Finger_Index_upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Controller.L/Finger_middle_Controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L/Finger_middle_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L/Finger_middle_middle.L/Finger_middle_upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L/Finger_middle_middle.L/Finger_middle_upper.L/Finger_middle_upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L/Finger_Pinky_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L/Finger_Pinky_middle.L/Finger_Pinky_Upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L/Finger_Pinky_middle.L/Finger_Pinky_Upper.L/Finger_Pinky_Upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Controller.L/Finger_Ring_Controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L/Finger_Ring_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L/Finger_Ring_middle.L/Finger_Ring_upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L/Finger_Ring_middle.L/Finger_Ring_upper.L/Finger_Ring_upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Pinky_Finger_Controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Pinky_Finger_Controller.L/Pinky_Finger_Controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_controller.L/Thumb_controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L/Thumb_base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L/Thumb_base.L/Thumb_Upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L/Thumb_base.L/Thumb_Upper.L/Thumb_Upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Bone.029
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Bone.029/Bone.030
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Bone.029/Bone.030/Bone.030_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_controller.R/Finger_index_controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R/Finger_Index_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R/Finger_Index_middle.R/Finger_Index_upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R/Finger_Index_middle.R/Finger_Index_upper.R/Finger_Index_upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Controller.R/Finger_middle_Controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R/Finger_middle_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R/Finger_middle_middle.R/Finger_middle_upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R/Finger_middle_middle.R/Finger_middle_upper.R/Finger_middle_upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R/Finger_Pinky_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R/Finger_Pinky_middle.R/Finger_Pinky_Upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R/Finger_Pinky_middle.R/Finger_Pinky_Upper.R/Finger_Pinky_Upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Controller.R/Finger_Ring_Controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R/Finger_Ring_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R/Finger_Ring_middle.R/Finger_Ring_upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R/Finger_Ring_middle.R/Finger_Ring_upper.R/Finger_Ring_upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Pinky_Finger_Controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Pinky_Finger_Controller.R/Pinky_Finger_Controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_controller.R/Thumb_controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R/Thumb_base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R/Thumb_base.R/Thumb_Upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R/Thumb_base.R/Thumb_Upper.R/Thumb_Upper.R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SMG_Shoot
+      takeName: Armature|SMG_Animations
+      firstFrame: 300
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Upper arm.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_controller.L/Finger_index_controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L/Finger_Index_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L/Finger_Index_middle.L/Finger_Index_upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L/Finger_Index_middle.L/Finger_Index_upper.L/Finger_Index_upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Controller.L/Finger_middle_Controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L/Finger_middle_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L/Finger_middle_middle.L/Finger_middle_upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L/Finger_middle_middle.L/Finger_middle_upper.L/Finger_middle_upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L/Finger_Pinky_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L/Finger_Pinky_middle.L/Finger_Pinky_Upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L/Finger_Pinky_middle.L/Finger_Pinky_Upper.L/Finger_Pinky_Upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Controller.L/Finger_Ring_Controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L/Finger_Ring_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L/Finger_Ring_middle.L/Finger_Ring_upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L/Finger_Ring_middle.L/Finger_Ring_upper.L/Finger_Ring_upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Pinky_Finger_Controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Pinky_Finger_Controller.L/Pinky_Finger_Controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_controller.L/Thumb_controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L/Thumb_base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L/Thumb_base.L/Thumb_Upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L/Thumb_base.L/Thumb_Upper.L/Thumb_Upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Bone.029
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Bone.029/Bone.030
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Bone.029/Bone.030/Bone.030_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_controller.R/Finger_index_controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R/Finger_Index_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R/Finger_Index_middle.R/Finger_Index_upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R/Finger_Index_middle.R/Finger_Index_upper.R/Finger_Index_upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Controller.R/Finger_middle_Controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R/Finger_middle_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R/Finger_middle_middle.R/Finger_middle_upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R/Finger_middle_middle.R/Finger_middle_upper.R/Finger_middle_upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R/Finger_Pinky_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R/Finger_Pinky_middle.R/Finger_Pinky_Upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R/Finger_Pinky_middle.R/Finger_Pinky_Upper.R/Finger_Pinky_Upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Controller.R/Finger_Ring_Controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R/Finger_Ring_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R/Finger_Ring_middle.R/Finger_Ring_upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R/Finger_Ring_middle.R/Finger_Ring_upper.R/Finger_Ring_upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Pinky_Finger_Controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Pinky_Finger_Controller.R/Pinky_Finger_Controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_controller.R/Thumb_controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R/Thumb_base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R/Thumb_base.R/Thumb_Upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R/Thumb_base.R/Thumb_Upper.R/Thumb_Upper.R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SMG_Reload
+      takeName: Armature|SMG_Animations
+      firstFrame: 375
+      lastFrame: 525
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Upper arm.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_controller.L/Finger_index_controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L/Finger_Index_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L/Finger_Index_middle.L/Finger_Index_upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L/Finger_Index_middle.L/Finger_Index_upper.L/Finger_Index_upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Controller.L/Finger_middle_Controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L/Finger_middle_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L/Finger_middle_middle.L/Finger_middle_upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L/Finger_middle_middle.L/Finger_middle_upper.L/Finger_middle_upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L/Finger_Pinky_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L/Finger_Pinky_middle.L/Finger_Pinky_Upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L/Finger_Pinky_middle.L/Finger_Pinky_Upper.L/Finger_Pinky_Upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Controller.L/Finger_Ring_Controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L/Finger_Ring_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L/Finger_Ring_middle.L/Finger_Ring_upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L/Finger_Ring_middle.L/Finger_Ring_upper.L/Finger_Ring_upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Pinky_Finger_Controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Pinky_Finger_Controller.L/Pinky_Finger_Controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_controller.L/Thumb_controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L/Thumb_base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L/Thumb_base.L/Thumb_Upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L/Thumb_base.L/Thumb_Upper.L/Thumb_Upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Bone.029
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Bone.029/Bone.030
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Bone.029/Bone.030/Bone.030_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_controller.R/Finger_index_controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R/Finger_Index_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R/Finger_Index_middle.R/Finger_Index_upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R/Finger_Index_middle.R/Finger_Index_upper.R/Finger_Index_upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Controller.R/Finger_middle_Controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R/Finger_middle_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R/Finger_middle_middle.R/Finger_middle_upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R/Finger_middle_middle.R/Finger_middle_upper.R/Finger_middle_upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R/Finger_Pinky_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R/Finger_Pinky_middle.R/Finger_Pinky_Upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R/Finger_Pinky_middle.R/Finger_Pinky_Upper.R/Finger_Pinky_Upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Controller.R/Finger_Ring_Controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R/Finger_Ring_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R/Finger_Ring_middle.R/Finger_Ring_upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R/Finger_Ring_middle.R/Finger_Ring_upper.R/Finger_Ring_upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Pinky_Finger_Controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Pinky_Finger_Controller.R/Pinky_Finger_Controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_controller.R/Thumb_controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R/Thumb_base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R/Thumb_base.R/Thumb_Upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R/Thumb_base.R/Thumb_Upper.R/Thumb_Upper.R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SMG_Swap
+      takeName: Armature|SMG_Animations
+      firstFrame: 550
+      lastFrame: 625
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Upper arm.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_controller.L/Finger_index_controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L/Finger_Index_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L/Finger_Index_middle.L/Finger_Index_upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_index_root.L/Finger_index_base.L/Finger_Index_middle.L/Finger_Index_upper.L/Finger_Index_upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Controller.L/Finger_middle_Controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L/Finger_middle_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L/Finger_middle_middle.L/Finger_middle_upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_middle_Root.L/Finger_middle_Base.L/Finger_middle_middle.L/Finger_middle_upper.L/Finger_middle_upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L/Finger_Pinky_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L/Finger_Pinky_middle.L/Finger_Pinky_Upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Pinky_root.L/Finger_Pinky_Base.L/Finger_Pinky_middle.L/Finger_Pinky_Upper.L/Finger_Pinky_Upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Controller.L/Finger_Ring_Controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L/Finger_Ring_middle.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L/Finger_Ring_middle.L/Finger_Ring_upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Finger_Ring_Root.L/Finger_Ring_Base.L/Finger_Ring_middle.L/Finger_Ring_upper.L/Finger_Ring_upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Pinky_Finger_Controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Pinky_Finger_Controller.L/Pinky_Finger_Controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_controller.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_controller.L/Thumb_controller.L_end
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L/Thumb_base.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L/Thumb_base.L/Thumb_Upper.L
+        weight: 1
+      - path: Armature/Upper arm.L/Lower_arm.L/Wrist.L/Thumb_root.L/Thumb_base.L/Thumb_Upper.L/Thumb_Upper.L_end
+        weight: 1
+      - path: Armature/Upper arm.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Bone.029
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Bone.029/Bone.030
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Bone.029/Bone.030/Bone.030_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_controller.R/Finger_index_controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R/Finger_Index_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R/Finger_Index_middle.R/Finger_Index_upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_index_root.R/Finger_index_base.R/Finger_Index_middle.R/Finger_Index_upper.R/Finger_Index_upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Controller.R/Finger_middle_Controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R/Finger_middle_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R/Finger_middle_middle.R/Finger_middle_upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_middle_Root.R/Finger_middle_Base.R/Finger_middle_middle.R/Finger_middle_upper.R/Finger_middle_upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R/Finger_Pinky_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R/Finger_Pinky_middle.R/Finger_Pinky_Upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Pinky_root.R/Finger_Pinky_Base.R/Finger_Pinky_middle.R/Finger_Pinky_Upper.R/Finger_Pinky_Upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Controller.R/Finger_Ring_Controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R/Finger_Ring_middle.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R/Finger_Ring_middle.R/Finger_Ring_upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Finger_Ring_Root.R/Finger_Ring_Base.R/Finger_Ring_middle.R/Finger_Ring_upper.R/Finger_Ring_upper.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Pinky_Finger_Controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Pinky_Finger_Controller.R/Pinky_Finger_Controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_controller.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_controller.R/Thumb_controller.R_end
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R/Thumb_base.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R/Thumb_base.R/Thumb_Upper.R
+        weight: 1
+      - path: Armature/Upper arm.R/Lower_arm.R/Wrist.R/Thumb_root.R/Thumb_base.R/Thumb_Upper.R/Thumb_Upper.R_end
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 217c4bb266e1d91469c591378565a1e8
+timeCreated: 1490301688
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - canvas: {instanceID: 0}
+  - eventSystem: {instanceID: 0}
+  - iconPrefab: {instanceID: 0}
+  - slotPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
